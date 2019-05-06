@@ -1,0 +1,41 @@
+C:\Users\admin\source\repos\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\admin\source\repos\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\admin\source\repos\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект_MarkupCompile.cache
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект_MarkupCompile.lref
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.g.resources
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\admin\source\repos\Проект\Проект\obj\Debug\Проект.pdb
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\Проект.exe
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\App.baml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Registry.g.cs
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\TicketSale.g.cs
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект_MarkupCompile.cache
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект_MarkupCompile.lref
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Registry.baml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\TicketSale.baml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.g.resources
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.exe
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.pdb
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\EntityFramework.dll
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\EntityFramework.xml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\source\repos\1 семестр\Проект\Проект\obj\Debug\Проект.csproj.CopyComplete
